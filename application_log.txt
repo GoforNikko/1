@@ -1,0 +1,2 @@
+2023-02-18 20:15:50,927 - DEBUG - data inserted succesfully
+2023-02-18 20:15:50,927 - DEBUG - connection closed succesfully
